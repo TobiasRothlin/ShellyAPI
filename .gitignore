@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea
+#Apple finder metadata
+.DS_Store
+
+#Data files
+.csv
+.json
+
+#Data files
+*.csv
+*.json
+*.tsv
+*.html
+
+*.pdf
+*.svg
+*.png
+*.tar
+*.gz
+*.model
+*.bin
